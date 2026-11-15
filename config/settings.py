@@ -132,7 +132,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-# user modeli uchun
+
 AUTH_USER_MODEL = 'users.User'
 LANGUAGE_CODE = 'uz'
 TIME_ZONE = 'Asia/Tashkent'
